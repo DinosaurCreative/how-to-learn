@@ -203,10 +203,6 @@
   background-position: left bottom;
 }
 
-.feynman__text {
-  display: block;
-}
-
 .feynman__title {
   max-width: 648px;
   text-align: center;
