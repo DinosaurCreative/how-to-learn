@@ -1,0 +1,59 @@
+[33mcommit 12a65a98607355fc9b36ab28fd6c4147602afb5f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: German Gimalaev <gimalaevgerman@yandex.ru>
+Date:   Sun Feb 7 19:43:59 2021 +0300
+
+    провен рефаторинг файла styles
+
+[33mcommit 69632ed74b10a15023ecaead4d5d74b9426b8010[m
+Author: German Gimalaev <gimalaevgerman@yandex.ru>
+Date:   Wed Jan 27 19:16:52 2021 +0300
+
+    работа над ошибками для ревью
+
+[33mcommit 86e94b6e3365fd2f9d7eb12d0664bf1f9aa98f3a[m
+Author: German Gimalaev <gimalaevgerman@yandex.ru>
+Date:   Wed Jan 27 19:03:58 2021 +0300
+
+    проведена работа над ошибками
+
+[33mcommit ac92c18339f8c7eb34affd98c11faeda03d543f0[m
+Author: German Gimalaev <gimalaevgerman@yandex.ru>
+Date:   Wed Jan 27 16:37:05 2021 +0300
+
+    резервная копия перед началом редактирования footer
+
+[33mcommit c062a8bb967e97cdc5038612a1326e14a578fb7a[m
+Author: German Gimalaev <gimalaevgerman@yandex.ru>
+Date:   Tue Jan 26 16:01:21 2021 +0300
+
+    исправления автопроверки
+
+[33mcommit ec7deb3276c207212775f8d4310f033a8ecaa9b7[m
+Author: German Gimalaev <gimalaevgerman@yandex.ru>
+Date:   Tue Jan 26 15:48:31 2021 +0300
+
+    теперь точно последние исправления
+
+[33mcommit b4a31ff7a40094c7a80ce49ae0bc160363a3b44c[m
+Author: German Gimalaev <gimalaevgerman@yandex.ru>
+Date:   Tue Jan 26 15:34:47 2021 +0300
+
+    Последние исправления в разметке CSS
+
+[33mcommit d61a37f2b641d5e0458e27210303e3d69cca853f[m
+Author: German Gimalaev <gimalaevgerman@yandex.ru>
+Date:   Tue Jan 26 14:31:11 2021 +0300
+
+    версия с испралениями по чек-листу
+
+[33mcommit 42ef6f1df1ce6833d79afcf9f717d99af6189225[m
+Author: German Gimalaev <gimalaevgerman@yandex.ru>
+Date:   Tue Jan 26 13:20:00 2021 +0300
+
+    исправил 'p на h1
+
+[33mcommit 74be97b2faecc119a77ea47b4a637483ead71c0f[m
+Author: German Gimalaev <gimalaevgerman@yandex.ru>
+Date:   Tue Jan 26 13:02:23 2021 +0300
+
+    Готовая версия верстки'how to learn'
