@@ -5,8 +5,7 @@
   text-decoration: none;
   color: #2f80ed;
   transition: opacity .3s;
-  position: absolute;
-  left: 636px;
+  height: 100%;
 }
 
 .khan__book-link:hover {

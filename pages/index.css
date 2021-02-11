@@ -2,7 +2,7 @@
 
 @import url(../blocks/page/page.css);
 @import url(../blocks/rotation/rotation.css);
-@import url(../blocks/link/_opacity/link_opacity.css);
+@import url(..blocks/link/_opacity/link_opacity.css);
 
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/content/content.css);
