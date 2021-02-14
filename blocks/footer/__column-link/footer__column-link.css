@@ -4,7 +4,7 @@
   color: white;
   text-decoration: none;
   list-style-type: none;
-  transition: opacity .3s;
+  transition: opacity .3s linear;
 }
 
 .footer__column-link:hover {
